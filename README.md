@@ -7,7 +7,7 @@
 
 ---
 
-- 🔭 I’m currently working on [CMS Project](https://github.com/Bhairab-Nath/Content_Management_System_Project)  
+- 🔭 My recent project [CMS Project](https://github.com/Bhairab-Nath/Content_Management_System_Project)  
 - 🌱 I’m currently learning **Node.js, Express.js, SQL, Sequelize**  
 
 ---
