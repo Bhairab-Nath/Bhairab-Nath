@@ -8,7 +8,7 @@
 ---
 
 - 🔭 My recent project [CMS Project](https://github.com/Bhairab-Nath/Content_Management_System_Project)  
-- 🌱Skills: **Python,JavaScript, Node.js, Express.js, SQL** 
+- 🌱Skills: **Python, JavaScript, Node.js, Express.js, SQL(PostgreSQL and MySQL)** 
 
 ---
 
