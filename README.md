@@ -7,7 +7,7 @@
 
 ---
 
-- 🔭 My recent project [CMS Project](https://github.com/Bhairab-Nath/Content_Management_System_Project)  
+- 🔭 My recent project [CMS Project](https://github.com/Bhairab-Nath/Content_Management_System_Project) , [React Blog Management Project](https://github.com/Bhairab-Nath/React-Blog-Management-System-Redux-Toolkit) , [CMS Project]() 
 - 🌱Skills: **Python, JavaScript, React, Node.js, Express.js, SQL(PostgreSQL and MySQL)** 
 
 ---
