@@ -7,12 +7,12 @@
 
 ---
 
-- 🔭 My recent project
+<h3 align="center"> My recent project </h3>
 - [Job Portal fullstack project](https://github.com/Bhairab-Nath/Job-Portal-Website)
 - [CMS Project](https://github.com/Bhairab-Nath/Content_Management_System_Project) 
 - [React Blog Management Project](https://github.com/Bhairab-Nath/React-Blog-Management-System-Redux-Toolkit)
 - [React Weather App Project](https://github.com/Bhairab-Nath/Weather-App-React) 
-- 🌱Skills: **Python, JavaScript, React, Node.js, Express.js, SQL(PostgreSQL and MySQL)** 
+Skills: **Python, JavaScript, React, Node.js, Express.js, SQL(PostgreSQL and MySQL)** 
 
 ---
 
