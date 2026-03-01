@@ -24,77 +24,18 @@
 </p>
 
 ---
-
 <h3 align="center">⚡ Languages and Tools</h3>
 
 <p align="center">
-<table align="center">
-  <tr>
-    <!-- Programming Languages -->
-    <td align="center" width="80">
-      <a href="https://www.python.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-      </a>
-    </td>
-    <td align="center" width="80">
-      <a href="https://www.cprogramming.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" alt="C"/>
-      </a>
-    </td>
-    <td align="center" width="80">
-      <a href="https://isocpp.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
-      </a>
-    </td>
-    <td align="center" width="80">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <!-- Backend -->
-    <!-- <td align="center" width="80">
-=
-    </td> -->
-    <td align="center" width="80">
-      <a href="https://reactjs.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/>
-      </a>
-    </td>
-    <td align="center" width="80">
-      <a href="https://expressjs.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45" alt="Express"/>
-      </a>
-    </td>
-    <td align="center" width="80">
-      <a href="https://nodejs.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
-      </a>
-    </td>
-
-  </tr>
-
-  <tr>
-    <!-- Databases -->
-    <td align="center" width="80">
-      <a href="https://www.postgresql.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
-      </a>
-    </td>
-    
-  </tr>
-
-  <tr>
-    <!-- Tools -->
-    <td align="center" width="80">
-      <a href="https://git-scm.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-      </a>
-    </td>
-  </tr>
-</table>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
