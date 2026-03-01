@@ -47,13 +47,7 @@
 ---
 
 <h3 align="center">📊 GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhairab-nath&show_icons=true&locale=en&layout=compact" alt="bhairab-nath" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhairab-nath&show_icons=true&locale=en" alt="bhairab-nath" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhairab-nath&" alt="bhairab-nath" />
