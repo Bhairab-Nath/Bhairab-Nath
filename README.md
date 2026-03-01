@@ -24,53 +24,40 @@
 </p>
 
 ---
+
 <h3 align="center">⚡ Languages and Tools</h3>
 
-<div align="center">
-  <div style="display: inline-block; padding: 20px 30px; border-radius: 15px; border: 1px solid #e1e4e8; background-color: #f6f8fa;">
-    
-    <!-- React -->
-    <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React" />
-    </a>
-
-    <!-- Django -->
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noopener noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" height="45" alt="Django" />
-    </a>
-
-    <!-- Express -->
-    <a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45" alt="Express.js" />
-    </a>
-
-    <!-- Node -->
-    <a href="https://nodejs.org" target="_blank" rel="noopener noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js" />
-    </a>
-
-    <!-- Python -->
-    <a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" />
-    </a>
-
-    <!-- PostgreSQL -->
-    <a href="https://www.postgresql.org" target="_blank" rel="noopener noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" />
-    </a>
-
-    <!-- MySQL -->
-    <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" />
-    </a>
-
-    <!-- Git -->
-    <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" />
-    </a>
-
-  </div>
-</div>
+<p align="center">
+<table align="center">
+  <tr>
+    <td align="center" width="80">
+      <a href="https://www.python.org">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+      </a>
+    </td>
+    <td align="center" width="80">
+      <a href="https://www.djangoproject.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" height="45" alt="Django"/>
+      </a>
+    </td>
+    <td align="center" width="80">
+      <a href="https://expressjs.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45" alt="Express"/>
+      </a>
+    </td>
+    <td align="center" width="80">
+      <a href="https://nodejs.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
+      </a>
+    </td>
+    <td align="center" width="80">
+      <a href="https://www.postgresql.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
+      </a>
+    </td>
+  </tr>
+</table>
+</p>
 
 ---
 
