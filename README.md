@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bhairab Nath</h1>
+<h1 align="center">👋 Hi, I'm Bhairab Nath</h1>
 <h3 align="center">A passionate tech learner from Nepal | Fullstack Developer | Data Science & AI/ML Enthusiast</h3>
 
 <p align="center">
