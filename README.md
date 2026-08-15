@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Bhairab Nath</h1>
 
 <h3 align="center">
-  Backend Engineer | Full-Stack Developer | AI/ML Enthusiast
+  Backend Engineer | AI/ML Enthusiast
 </h3>
 
 <p align="center">
