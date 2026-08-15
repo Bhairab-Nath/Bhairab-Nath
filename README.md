@@ -1,11 +1,13 @@
 <h1 align="center">👋 Hi, I'm Bhairab Nath</h1>
-<h3 align="center">A passionate tech learner from Nepal | Fullstack Developer | Data Science & AI/ML Enthusiast</h3>
+<h3 align="center">A passionate tech learner from Nepal | Backend Engineer | Data Science & AI/ML Enthusiast</h3>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/41f14ffb-19d3-4727-a26c-f86b7484f47b" alt="gif" height="300px"/>
 </p>
 
 ---
+ABOUT ME:
+Hi! I'm a Bhairab Nath. I am an aspiring Backend Engineer passionate about building scalable web applications. I am exploring AI/ML.
 
 - My recent project
 - [Job Portal fullstack project](https://github.com/Bhairab-Nath/Job-Portal-Website)
