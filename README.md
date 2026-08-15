@@ -22,7 +22,7 @@ Currently focused on **Python, FastAPI, PostgreSQL, REST APIs, and backend archi
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 🔹 **[Job Portal – Full-Stack Project](https://github.com/Bhairab-Nath/Job-Portal-Website)**
 A full-stack job portal application with modern web technologies.
@@ -93,7 +93,7 @@ A weather application built with React and API integration.
 ---
 
 <p align="center">
-  <b>🚀 Learning. Building. Improving.</b>
+  <b> Learning. Building. Improving.</b>
 </p>
 
 <p align="center">
